@@ -1,0 +1,152 @@
+A:link {color: rgb(84, 140, 223)}
+A:visited {color: rgb(0, 0, 0)}
+A:active {color: rgb(255, 0, 0)}
+.menu{
+    width: 2650px;
+    height: 127px;
+    display: flex;
+    margin-top: 20px;    
+    background-color: transparent; 
+    padding-bottom: 100px;   
+   
+
+}
+.img-menu{
+    width: 200px;
+    height: auto;
+    text-align: left;
+    margin-top: 10px;
+}
+.menu-ul{
+    display: flex;
+    text-align: right;    
+    
+    font-size: 20px;
+    
+}
+.menu-li{
+    display: flex;    
+    margin-left: 5%;
+    color: black;
+}
+.menu-div-ul{
+    margin-left: 1000px;
+}
+a{
+    text-decoration: none;
+}
+.text-main{
+    color: beige;
+    font-size: 120px;
+    padding-top: 550px;
+    padding-left: 50px;    
+}
+.text-main-search{
+    color: beige;
+    font-size: 90px;
+    padding-top: 200px;
+    padding-left: 50px;    
+}
+.text-about-high{
+    color: black;
+    font-size: 150px;
+    font-weight: 100;
+    padding-left: 50px; 
+    
+}
+.palka{
+    width: 1800px;
+    height: 0px;
+    left: 99px;
+    background: black;
+    border: 3px black solid;
+    margin-top: -60px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.left{
+    text-align: left;
+    margin-left: 50px;
+}
+.right{
+    text-align: right;
+    float: right;
+    margin-right: 50px;
+}
+.text-about-low{
+    font-size: 60px;
+    width: 60%;   
+}
+.back-img{
+    width: 1900px;
+    height: 1000px;
+    background-size: cover;
+    display: flex;
+    
+}
+.input-text{
+    color: black;    
+    font-size: 50px;
+    padding-bottom: -100px;    
+}
+.input-text-block{
+    color: beige;
+    font-size: 50px;
+    float: right;
+    margin-left: 400px;
+    margin-top: 200px;  
+
+}
+.banner{
+    margin-top: 50px;
+    width: 450px;
+    height: 900px ;
+    background-color: black;
+    border-radius: 10px;
+    color: beige;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.block-banner{
+    display: flex;
+}
+.banner:hover{
+    background-color: #710B0B;
+    transition: 1s;
+}
+.img-banner{
+    width: 320px;
+    height: auto;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.text-banner{
+    padding: 30px;
+    font-size: 24px;
+}
+.palka-banner{
+    width: 300px;
+    height: 0px;    
+    background: beige;
+    border: 1px beige solid;
+    margin-left: 30px;  
+    
+}
+.button-banner{
+    width: 200px;
+    height: 50px;
+    background-color: beige;
+    color: black;
+    font-size: 24px;
+    margin-left: 60px;
+    }
+.a-banner{
+    font-size: 40px;
+    margin-left: 40px;
+}
+button:hover{
+    background-color: #71600b;
+    transition: 1s;
+}
